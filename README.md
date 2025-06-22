@@ -24,7 +24,7 @@ São quatro níveis de dificuldade, que indicam quantos botões deverão ser ace
 [link](/img/seletorDificuldade.png)
 
 * Com a dificuldade selecionada jogo começa emitindo o primeiro sinal (um botão aleatório é ativado, acendo a luz e tocando um bip). 
-[link](/img/CorSolicitada.png)
+[![imagemCor](/img/CorSolicitada.png)]
 
 
 * Repita o sinal, pressionando o botão equivalente. Caso erre, você perde o jogo. Caso acerte, o jogo colocará mais um sinal na sequência.
