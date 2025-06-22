@@ -1,5 +1,3 @@
-
-
 # Genius
 Este é o projeto final de algoritimos e logica de programação desenvolvido por `Gabriel Alves` e `Gustavo Gonzalez`.
 
