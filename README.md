@@ -21,9 +21,13 @@ São quatro níveis de dificuldade, que indicam quantos botões deverão ser ace
 
 ### Instruções
 * Quando o programa inicia ele solicita que o jogador selecione a dificulade.
+
+
 ![seletorDificuldade](/img/seletorDificuldade.png)
 
-* Com a dificuldade selecionada jogo começa emitindo o primeiro sinal (um botão aleatório é ativado, acendo a luz e tocando um bip). 
+* Com a dificuldade selecionada jogo começa emitindo o primeiro sinal (um botão aleatório é ativado, acendo a luz e tocando um bip).
+
+
 ![imagemCor](/img/CorSolicitada.png)
 
 
