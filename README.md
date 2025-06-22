@@ -42,7 +42,7 @@ Extraia o conteúdo do link de download.
 #### Windows
 
 
-`dotnet genius.dll` ou abrir o arquivo `geniusIMC.exe`
+`dotnet genius.dll` ou abrir o arquivo `genius.exe`
 
 
 ## Download
