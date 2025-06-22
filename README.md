@@ -1,5 +1,5 @@
 # Genius
-### Este é o projeto final de algoritimos e logica de programação desenvolvido por `Gabriel Alves` e `Gustavo Gonzalez`.
+#### Este é o projeto final de algoritimos e logica de programação desenvolvido por `Gabriel Alves` e `Gustavo Gonzalez`.
 
 ## Introdução
 Genius é um jogo eletrônico de memória popular nos anos 80. Lançado no Brasil pela Estrela
