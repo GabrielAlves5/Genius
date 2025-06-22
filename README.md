@@ -21,10 +21,10 @@ São quatro níveis de dificuldade, que indicam quantos botões deverão ser ace
 
 ### Instruções
 * Quando o programa inicia ele solicita que o jogador selecione a dificulade.
-[link](/genius/img/calma%20ai%20.png)
+[link](/img/seletorDificuldade.png)
 
 * Com a dificuldade selecionada jogo começa emitindo o primeiro sinal (um botão aleatório é ativado, acendo a luz e tocando um bip). 
-[link](/genius/img/cor%20do%20jogo.png)
+[link](/img/CorSolicitada.png)
 
 
 * Repita o sinal, pressionando o botão equivalente. Caso erre, você perde o jogo. Caso acerte, o jogo colocará mais um sinal na sequência.
@@ -51,5 +51,5 @@ Extraia o conteúdo do link de download.
 ## Download
 
 
-Acesse o programa através do [link](/dist/Genius_por_Gabriel_Alves_e_Gustavo_Gonzalez.zip)
+Acesse o programa através do [link](/dist/Genius_feitoPor_GabrielAlves_e_GustavoReis.zip)
 
