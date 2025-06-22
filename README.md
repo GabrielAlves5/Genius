@@ -21,8 +21,11 @@ São quatro níveis de dificuldade, que indicam quantos botões deverão ser ace
 
 ### Instruções
 * Quando o programa inicia ele solicita que o jogador selecione a dificulade.
+[link](/genius/img/calma%20ai%20.png)
 
 * Com a dificuldade selecionada jogo começa emitindo o primeiro sinal (um botão aleatório é ativado, acendo a luz e tocando um bip). 
+[link](/genius/img/cor%20do%20jogo.png)
+
 
 * Repita o sinal, pressionando o botão equivalente. Caso erre, você perde o jogo. Caso acerte, o jogo colocará mais um sinal na sequência.
 
